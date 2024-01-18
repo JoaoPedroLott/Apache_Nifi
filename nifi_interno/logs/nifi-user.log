@@ -1,0 +1,2 @@
+2024-01-18 14:31:09,982 INFO [main] o.a.n.a.single.user.SingleUserAuthorizer Initializing Authorizer
+2024-01-18 14:31:13,119 INFO [main] o.a.n.a.single.user.SingleUserAuthorizer Configuring Authorizer
