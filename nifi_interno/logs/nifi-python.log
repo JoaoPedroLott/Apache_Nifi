@@ -1,3 +1,0 @@
-2024-01-16 17:16:58,867 INFO org.apache.nifi.py4j.Controller Listening for requests from Java side using Python Port 44527, communicating with Java on port 43049
-2024-01-16 17:24:42,136 INFO org.apache.nifi.py4j.Controller Listening for requests from Java side using Python Port 45757, communicating with Java on port 42873
-2024-01-18 14:31:34,828 INFO org.apache.nifi.py4j.Controller Listening for requests from Java side using Python Port 44287, communicating with Java on port 36287
