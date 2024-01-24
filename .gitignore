@@ -1,2 +1,12 @@
 # Ignore o arquivo nifi.env
 nifi.env
+
+# Ignora as pastas de dados
+/certif/
+/dados_externos/
+/nifi_interno/content_repository/
+/nifi_interno/database_repository/
+/nifi_interno/flowfile_repository/
+/nifi_interno/provenance_repository/
+/nifi_interno/logs/
+/nifi_interno/state/
